@@ -1,6 +1,6 @@
 ---
 layout: misc
-title: About #microcleanup.com
+title: About This Site
 ---
 
 It takes under a minute to do a #microcleanup. Anyone can do one, anywhere!
