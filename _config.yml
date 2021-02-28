@@ -3,6 +3,9 @@
 # jekyll-paginate configuration
 paginate:            10
 
+# Hide future posts
+future: false
+
 # Build settings
 markdown:            kramdown
 highlighter:         rouge
