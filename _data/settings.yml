@@ -14,8 +14,8 @@ menu:
 social:
 #- {icon: 'twitter', link: 'https://twitter.com/paululele'}
 #- {icon: 'facebook', link: 'https://www.facebook.com/Le.Paul.94'}
-#- {icon: 'instagram', link: 'https://instagram.com/paululele'}
-#- {icon: 'envelope', link: 'mailto:l.nguyen.paul@gmail.com'}
+- {icon: 'instagram', link: 'https://instagram.com/microcleanup'}
+#- {icon: 'envelope', link: 'mailto:microcleanup@gmail.com'}
 
 # Customize site text
 pagination:
