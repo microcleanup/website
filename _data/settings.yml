@@ -1,3 +1,5 @@
+# Jekyll Template is "Millenial": https://github.com/LeNPaul/Millennial
+
 # Change 'comments' to true for Disqus comments
 disqus:
   comments: false
@@ -7,7 +9,7 @@ disqus:
 google-ID: ''
 
 menu:
-#- {name: 'About', folder: 'pages', file: 'about.html'}
+- {name: 'About', folder: 'pages', file: 'about.html'}
 #- {name: 'Contact', folder: 'pages', file: 'contact.html'}
 
 # Available social icons are powered by Font Awesome, so you can use any icon that they offer
