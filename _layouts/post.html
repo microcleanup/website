@@ -7,6 +7,18 @@ layout: default
     {{ page.title }}
   </h1>
 
+  <!--
+  {% if page.image %}
+    <div class="featured-image">
+      <img src="{{ site.github.url }}/assets/img/{{ page.image }}">
+    </div>
+  {% endif %}
+  -->
+
+  <article>
+    {{ content }}
+  </article>
+
   <span class="post-date">
     {{ site.data.settings.post_date_prefix }}
     {% assign d = page.date | date: "%-d"  %}
@@ -24,17 +36,7 @@ layout: default
       {{ site.author }}
     {% endif %}
   </span>
-
-  {% if page.image %}
-    <div class="featured-image">
-      <img src="{{ site.github.url }}/assets/img/{{ page.image }}">
-    </div>
-  {% endif %}
-
-  <article>
-    {{ content }}
-  </article>
-
+  
   <div class="post-share">
     <div class="post-date">{{ site.data.settings.sharing_button_prompt }}</div>
     <div class="sharing-icons">
