@@ -3,7 +3,7 @@ layout: post
 title: "@comecleangwinnett"
 author: "@comecleangwinnett"
 tags: [microcleanup, instagram]
-image: comecleangwinnett.1.png
+image: comecleangwinnett.1.jpg
 ---
 # @comecleangwinnett
 
