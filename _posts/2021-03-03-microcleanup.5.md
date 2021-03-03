@@ -3,7 +3,7 @@ layout: post
 title: "@microcleanup"
 author: "@microcleanup"
 tags: [microcleanup, instagram]
-image: microcleanup.1.png
+image: microcleanup.5.jpg
 ---
 # @microcleanup
 
