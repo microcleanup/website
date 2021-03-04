@@ -3,7 +3,7 @@ layout: post
 title: "@jodie2minutehq"
 author: "@jodie2minutehq"
 tags: [microcleanup, instagram]
-image: jodie2minutehq.1.png
+image: jodie2minutehq.1.jpg
 ---
 # @jodie2minutehq
 
