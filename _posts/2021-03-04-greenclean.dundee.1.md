@@ -3,7 +3,7 @@ layout: post
 title: "@greenclean.dundee"
 author: "@greenclean.dundee"
 tags: [microcleanup, instagram]
-image: greenclean.dundee.1.png
+image: greenclean.dundee.1.jpg
 ---
 # @greenclean.dundee
 
