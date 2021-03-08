@@ -3,7 +3,7 @@ layout: post
 title: "@timmy_the_drain"
 author: "@timmy_the_drain"
 tags: [microcleanup, instagram]
-image: timmy_the_drain.1.png
+image: timmy_the_drain.1.jpg
 ---
 # @timmy_the_drain
 
